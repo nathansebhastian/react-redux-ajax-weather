@@ -13,5 +13,6 @@ Clone the repo, then open your terminal, change to the project directory, and:
 ###What I Learned###
 * Familiarity with Redux
 * Using Async Call on Redux
-* binding the context of components
+* binding the context of components using this
 * Middleware are functions that take actions (pass it, manipulate it, log it, or stop it) before it reach reducer
+* Axios and string templates
