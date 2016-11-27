@@ -7,9 +7,6 @@ export default function(state = [], action) {
       // NOT state.push BECAUSE DIRECT MUTATION IS BAD PRACTICE
       // OR USE THIS PUSH TO INDEX 0 OF STATE
       // return [action.payload.data, ...state];
-      break;
-    default:
-
   }
   return state;
 }

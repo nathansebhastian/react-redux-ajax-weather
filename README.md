@@ -16,3 +16,5 @@ Clone the repo, then open your terminal, change to the project directory, and:
 * binding the context of components using this
 * Middleware are functions that take actions (pass it, manipulate it, log it, or stop it) before it reach reducer
 * Axios and string templates
+* Reusable components for the Sparklines
+* Google Map API Integration
